@@ -1,0 +1,14 @@
+{
+  "HUD": {
+    "Enabled": true,
+    "Module Modes": true
+  },
+  "Fly": {
+    "Enabled": false,
+    "MotionY": 1.0,
+    "Mode": "Motion"
+  },
+  "ClickGui": {
+    "Enabled": false
+  }
+}
